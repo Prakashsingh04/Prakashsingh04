@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prakash Singh 👋</h1>
+<h1 align="center">Hi, I'm Prakash 👋</h1>
 <h3 align="center">AI Engineer & Software Developer</h3>
  
 <p align="center">
@@ -12,13 +12,14 @@
 ---
  
 ### 🧭 About Me
+
+I enjoy solving real-world problems through software and AI, continuously learning new technologies, and turning ideas into scalable, practical solutions.
  
-- 🎓 Pursuing **MCA** at Vellore Institute of Technology (VIT), 2024 – 2026
-- 💼 Currently **SDE Intern @ Intellect Design Arena Ltd.**, working on **CorpGPT** — an enterprise AI banking assistant
-- 🎙️ Building a **Voice Banking PoC** using Gemini 2.5 Flash Native Audio, FastAPI, and MCP to run banking operations across 76+ tools via natural voice
+- 🎓 **MCA** at Vellore Institute of Technology (VIT), 2024 – 2026
+- 💼 Currently **SDE Intern @ Intellect Design Arena Ltd.**, 
 - 🤖 Focused on **AI Engineering + Backend** — LLM applications, agentic AI, real-time systems, and APIs
 - 📍 Based in Pune, Maharashtra, India
-- ⚡ Beyond code: AI, Animation, Anime, Badminton
+- 🤖 I like animation video Editing and games.
 ---
  
 ### 🛠️ Tech Stack
@@ -71,18 +72,6 @@
 | **[Cross-Domain Fake Review Detection](https://github.com/Prakashsingh04/Cross-Domain-Fake-Review-Detection)** | Detects fake reviews across platforms; fine-tuning boosted cross-domain accuracy by 8–11 pts. | Python, XGBoost, TF-IDF |
  
 📌 More on my [portfolio](https://prakashsingh.me/) and pinned repos below.
- 
----
- 
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prakashsingh04&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashsingh04&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashsingh04&hide_border=true" />
-</p>
 ---
  
 ### 📫 Let's Connect
