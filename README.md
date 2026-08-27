@@ -40,14 +40,7 @@ AI Engineer & Software Developer — Building AI applications, backend services,
 - Build clean, responsive frontends to ship full-stack products end-to-end
 - Continuously experiment with new AI tooling and turn ideas into working demos
 
-## Professional Experience
 
-**Intellect Design Arena Ltd.** — SDE Intern
-
-- Building AI-powered applications and enterprise software solutions
-- Working with real-time AI workflows, backend services, and modern AI technologies
-
-<br/>
 
 <div id="competencies">
   <h2 align="left">Tech Stack</h2>
