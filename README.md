@@ -1,143 +1,147 @@
-<div align="center">
-# Hi, I'm Prakash 👋
+## Hi, I'm Prakash 👋
+<h3 align="center">AI Engineer & Software Developer — Building AI applications, backend services, and real-time systems.</h3>
+<img align="right" alt="Coding" width="380" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
  
-### AI Engineer & Software Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-profile-views" /> </p>
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-prakashsingh.me-grey?style=for-the-badge&logo=vercel&labelColor=000000&color=bf2004)](https://prakashsingh.me/)  
+[![LinkedIn](https://img.shields.io/badge/Connect_with_me_on-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://linkedin.com/in/prakashsingh04)  
+[![Projects](https://img.shields.io/badge/Collection_of_all_my_projects-GitHub-white?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/Prakashsingh04)  
+[![Email](https://img.shields.io/badge/Reach_out_to_me_-imprakash.work04@gmail.com-purple?style=for-the-badge&logo=gmail&labelColor=D14836)](mailto:imprakash.work04@gmail.com)
  
-Building AI applications, backend services, and real-time systems.
+- 🎓 &nbsp;**MCA** at Vellore Institute of Technology (VIT), 2024 – 2026
+- 🔮 &nbsp;I'm currently deep in **Agentic AI, RAG pipelines & MCP-based tooling**
+  &nbsp; &nbsp; &nbsp; _"Turning LLMs into systems that actually get things done"_
+- 💬 &nbsp;Ask me about FastAPI, RAG, Agentic AI, Next.js, LLM applications
+- 🎮 &nbsp;**Hobbies**: Animation/video editing, gaming, backend tinkering
+### 🌟 What I Do:
  
-<p>
-  <a href="https://prakashsingh.me/"><img src="https://img.shields.io/badge/Portfolio-prakashsingh.me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/prakashsingh04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imprakash.work04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- Build LLM-powered applications — RAG pipelines, agentic workflows, MCP tool integrations
+- Design and develop scalable backend services and real-time systems
+- Build clean, responsive frontends to ship full-stack products end-to-end
+- Continuously experiment with new AI tooling and turn ideas into working demos
+### 💼 Professional Experience:
+ 
+- **Intellect Design Arena Ltd.:** SDE
+<br/>
+<div id="competencies">
+  <h2 align="left">Competencies:</h2>
 </div>
-<br>
-## 🧭 About Me
- 
-I enjoy solving real-world problems through software and AI, continuously learning new technologies, and turning ideas into scalable, practical solutions.
- 
-- 🎓 **MCA** at Vellore Institute of Technology (VIT), 2024 – 2026
-- 💼 Currently **SDE Intern @ Intellect Design Arena Ltd.**
-- 🤖 Focused on **AI Engineering + Backend** — LLM applications, agentic AI, RAG, MCP, real-time systems, and APIs
-- 📍 Based in Pune, Maharashtra, India
-- 🎮 I like animation/video editing and games
-<br>
-## 🛠️ Tech Stack
- 
 <table>
 <tr>
-<td valign="top" width="50%">
-**Languages**
- 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-**AI / LLM / Agentic**
- 
-<img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-MCP-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/-RAG-6E56CF?style=flat-square" />
-<img src="https://img.shields.io/badge/-Agentic%20AI-6E56CF?style=flat-square" />
-<img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square" />
-<img src="https://img.shields.io/badge/-Antigravity-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/-Lovable-FF3366?style=flat-square" />
-<img src="https://img.shields.io/badge/-OpenCode-0EA5E9?style=flat-square" />
-**Backend & Frontend**
- 
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<td><h4>Languages</h4></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </td>
-<td valign="top" width="50%">
-**Data & ML**
- 
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square" />
-**Databases & Cloud**
- 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-**Tools & Platforms**
- 
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
-<img src="https://img.shields.io/badge/-PuTTY-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mermaid%20JS-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-**Speech**
- 
-<img src="https://img.shields.io/badge/-Text%20to%20Speech-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/-Speech%20to%20Text-4B5563?style=flat-square" />
+</tr>
+<tr>
+<td><h4>AI / LLM / Agentic</h4></td>
+<td>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode-0EA5E9?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td><h4>Backend & Frontend</h4></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><h4>Data & ML</h4></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td><h4>Databases & Cloud</h4></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><h4>Tools & Platforms</h4></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mermaid%20JS-FF3670?style=for-the-badge&logo=mermaid&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><h4>Speech</h4></td>
+<td>
+<img src="https://img.shields.io/badge/Text%20to%20Speech-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speech%20to%20Text-4B5563?style=for-the-badge"/>
 </td>
 </tr>
 </table>
-<br>
-## 🚀 Featured Projects
+<br/>
+<div id="projects">
+  <h2 align="left">🚀 Featured Projects:</h2>
+</div>
+**[Visual Product Matcher](https://github.com/Prakashsingh04/Visualise-Product-Matcher-JINA-AI)**  
+Upload an image or URL to find visually similar products via CLIP embeddings + cosine similarity.  
+`FastAPI` · `Streamlit` · `MongoDB Atlas` · `Jina CLIP v2` — [Live Demo](https://visualise-appuct-matcher-jina-ai-6yvussbfby48ctg9bdchz7.streamlit.app/)
  
-<table>
-<tr>
-<td width="50%" valign="top">
-### 🖼️ [Visual Product Matcher](https://github.com/Prakashsingh04/Visualise-Product-Matcher-JINA-AI)
-Upload an image or URL to find visually similar products via CLIP embeddings + cosine similarity.
+**[PDF-DOST](https://github.com/Prakashsingh04/PDF-DOST)**  
+Chat with any PDF in natural language with a real-time document preview (RAG pipeline).  
+`React` · `Tailwind` · `Flask` · `RAG` — [Live Demo](https://pdf-dost-gilt.vercel.app)
  
-**Tech:** FastAPI · Streamlit · MongoDB Atlas · Jina CLIP v2
+**[Mobile Phone Addiction Detection](https://github.com/Prakashsingh04/Mobile-Phone-Addiction)**  
+Predicts teen phone-addiction levels via regression & classification (~91% accuracy).  
+`Python` · `scikit-learn` · `Random Forest`
  
-🔗 [Live Demo](https://visualise-appuct-matcher-jina-ai-6yvussbfby48ctg9bdchz7.streamlit.app/)
+**[Cross-Domain Fake Review Detection](https://github.com/Prakashsingh04/Cross-Domain-Fake-Review-Detection)**  
+Detects fake reviews across platforms; fine-tuning boosted cross-domain accuracy by 8–11 pts.  
+`Python` · `XGBoost` · `TF-IDF`
  
-</td>
-<td width="50%" valign="top">
-### 📄 [PDF-DOST](https://github.com/Prakashsingh04/PDF-DOST)
-Chat with any PDF in natural language with a real-time document preview (RAG pipeline).
+📌 &nbsp;More on my [portfolio](https://prakashsingh.me/) and pinned repos below.
  
-**Tech:** React · Tailwind · Flask · RAG
+<br/>
+<div id="gh_stats">
+  <h2 align="left">GitHub Stats:</h2>
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashsingh04&" alt="prakash-streak-stats" /></p>
+<br/>
+###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it
  
-🔗 [Live Demo](https://pdf-dost-gilt.vercel.app)
+![My Skills](https://skillicons.dev/icons?i=py,java,c,js,ts,fastapi,flask,react,nextjs,tailwind,docker,git,github,gitlab,mongodb,mysql,gcp,vercel,tensorflow,pytorch,postman,vscode&perline=15)
  
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-### 📱 [Mobile Phone Addiction Detection](https://github.com/Prakashsingh04/Mobile-Phone-Addiction)
-Predicts teen phone-addiction levels via regression & classification (~91% accuracy).
- 
-**Tech:** Python · scikit-learn · Random Forest
- 
-</td>
-<td width="50%" valign="top">
-### 🕵️ [Cross-Domain Fake Review Detection](https://github.com/Prakashsingh04/Cross-Domain-Fake-Review-Detection)
-Detects fake reviews across platforms; fine-tuning boosted cross-domain accuracy by 8–11 pts.
- 
-**Tech:** Python · XGBoost · TF-IDF
- 
-</td>
-</tr>
-</table>
-📌 More on my [portfolio](https://prakashsingh.me/) and pinned repos below.
- 
-<br>
-## 📫 Let's Connect
- 
+<br/>
 <p align="center">
   <a href="https://prakashsingh.me/"><img src="https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prakashsingh04"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
