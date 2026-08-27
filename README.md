@@ -3,11 +3,12 @@
 <img align="right" alt="Coding" width="380" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-profile-views" /> </p>
-[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-prakashsingh.me-grey?style=for-the-badge&logo=vercel&labelColor=000000&color=bf2004)](https://prakashsingh.me/)  
-[![LinkedIn](https://img.shields.io/badge/Connect_with_me_on-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://linkedin.com/in/prakashsingh04)  
-[![Projects](https://img.shields.io/badge/Collection_of_all_my_projects-GitHub-white?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/Prakashsingh04)  
-[![Email](https://img.shields.io/badge/Reach_out_to_me_-imprakash.work04@gmail.com-purple?style=for-the-badge&logo=gmail&labelColor=D14836)](mailto:imprakash.work04@gmail.com)
- 
+<p>
+<a href="https://prakashsingh.me/"><img src="https://img.shields.io/badge/Check_out_my_Portfolio-prakashsingh.me-grey?style=for-the-badge&logo=vercel&labelColor=000000&color=bf2004"/></a>
+<a href="https://linkedin.com/in/prakashsingh04"><img src="https://img.shields.io/badge/Connect_with_me_on-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0A66C2"/></a>
+<a href="https://github.com/Prakashsingh04"><img src="https://img.shields.io/badge/Collection_of_all_my_projects-GitHub-white?style=for-the-badge&logo=github&labelColor=181717"/></a>
+<a href="mailto:imprakash.work04@gmail.com"><img src="https://img.shields.io/badge/Reach_out_to_me_-imprakash.work04@gmail.com-purple?style=for-the-badge&logo=gmail&labelColor=D14836"/></a>
+</p>
 - 🎓 &nbsp;**MCA** at Vellore Institute of Technology (VIT), 2024 – 2026
 - 🔮 &nbsp;I'm currently deep in **Agentic AI, RAG pipelines & MCP-based tooling**
   &nbsp; &nbsp; &nbsp; _"Turning LLMs into systems that actually get things done"_
@@ -21,7 +22,7 @@
 - Continuously experiment with new AI tooling and turn ideas into working demos
 ### 💼 Professional Experience:
  
-- **Intellect Design Arena Ltd.:** SDE
+- **Intellect Design Arena Ltd.:** SDE Intern
 <br/>
 <div id="competencies">
   <h2 align="left">Competencies:</h2>
@@ -113,33 +114,14 @@
 <div id="projects">
   <h2 align="left">🚀 Featured Projects:</h2>
 </div>
-**[Visual Product Matcher](https://github.com/Prakashsingh04/Visualise-Product-Matcher-JINA-AI)**  
-Upload an image or URL to find visually similar products via CLIP embeddings + cosine similarity.  
-`FastAPI` · `Streamlit` · `MongoDB Atlas` · `Jina CLIP v2` — [Live Demo](https://visualise-appuct-matcher-jina-ai-6yvussbfby48ctg9bdchz7.streamlit.app/)
- 
-**[PDF-DOST](https://github.com/Prakashsingh04/PDF-DOST)**  
-Chat with any PDF in natural language with a real-time document preview (RAG pipeline).  
-`React` · `Tailwind` · `Flask` · `RAG` — [Live Demo](https://pdf-dost-gilt.vercel.app)
- 
-**[Mobile Phone Addiction Detection](https://github.com/Prakashsingh04/Mobile-Phone-Addiction)**  
-Predicts teen phone-addiction levels via regression & classification (~91% accuracy).  
-`Python` · `scikit-learn` · `Random Forest`
- 
-**[Cross-Domain Fake Review Detection](https://github.com/Prakashsingh04/Cross-Domain-Fake-Review-Detection)**  
-Detects fake reviews across platforms; fine-tuning boosted cross-domain accuracy by 8–11 pts.  
-`Python` · `XGBoost` · `TF-IDF`
+| Project | Tech | Link |
+|---|---|---|
+| **[Visual Product Matcher](https://github.com/Prakashsingh04/Visualise-Product-Matcher-JINA-AI)** — image/URL search via CLIP embeddings + cosine similarity | FastAPI · Streamlit · MongoDB · Jina CLIP v2 | [Demo](https://visualise-appuct-matcher-jina-ai-6yvussbfby48ctg9bdchz7.streamlit.app/) |
+| **[PDF-DOST](https://github.com/Prakashsingh04/PDF-DOST)** — chat with any PDF, real-time doc preview | React · Tailwind · Flask · RAG | [Demo](https://pdf-dost-gilt.vercel.app) |
+| **[Mobile Phone Addiction Detection](https://github.com/Prakashsingh04/Mobile-Phone-Addiction)** — predicts addiction levels (~91% accuracy) | Python · scikit-learn · Random Forest | — |
+| **[Cross-Domain Fake Review Detection](https://github.com/Prakashsingh04/Cross-Domain-Fake-Review-Detection)** — detects fake reviews, +8–11 pts accuracy | Python · XGBoost · TF-IDF | — |
  
 📌 &nbsp;More on my [portfolio](https://prakashsingh.me/) and pinned repos below.
- 
-<br/>
-<div id="gh_stats">
-  <h2 align="left">GitHub Stats:</h2>
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashsingh04&" alt="prakash-streak-stats" /></p>
-<br/>
-###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it
- 
-![My Skills](https://skillicons.dev/icons?i=py,java,c,js,ts,fastapi,flask,react,nextjs,tailwind,docker,git,github,gitlab,mongodb,mysql,gcp,vercel,tensorflow,pytorch,postman,vscode&perline=15)
  
 <br/>
 <p align="center">
